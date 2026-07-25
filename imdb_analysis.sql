@@ -1,10 +1,10 @@
 -- ==========================================
 -- Project: IMDb Top 1000 Movies Analysis
--- Author: Divanshu Singh
--- Tool: MySQL Workbench
+-- Author: Yash
+-- Tool: PgAdmin 4
 -- Skills: SQL, Aggregations, Window Functions
 -- Dataset: IMDb Top 1000 Movies (Kaggle)
--- Date: June 2026
+-- Date: July 2026
 -- ==========================================
 
 -- Project Description:
