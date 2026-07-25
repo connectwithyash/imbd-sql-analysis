@@ -3,7 +3,7 @@
 
 **Author:** Yash 
 **Tool:** PgAdmin 
-**Dataset:** IMDb Top 1000 Movies (Kaggle)  
+**Dataset:** IMDb Top 1000 Movies  
 **Skills:** SQL, Aggregations, Window Functions, CTEs
 
 ---
