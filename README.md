@@ -71,7 +71,7 @@ The objective is to identify trends in movie ratings, genres, directors, votes, 
 ## 🛠️ How to Run
 
 1. Clone this repository
-2. Import `imdb_analysis.sql` in MySQL Workbench
+2. Import `imdb_analysis.sql` in PgAdmin4
 3. Run queries section by section
 
 ---
