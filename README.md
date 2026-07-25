@@ -1,8 +1,8 @@
 # imbd-sql-analysis
 # 🎬 IMDb Top 1000 Movies — SQL Analysis
 
-**Author:** Divanshu Singh  
-**Tool:** MySQL Workbench  
+**Author:** Yash 
+**Tool:** PgAdmin 
 **Dataset:** IMDb Top 1000 Movies (Kaggle)  
 **Skills:** SQL, Aggregations, Window Functions, CTEs
 
