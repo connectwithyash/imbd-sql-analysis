@@ -73,13 +73,3 @@ The objective is to identify trends in movie ratings, genres, directors, votes, 
 1. Clone this repository
 2. Import `imdb_analysis.sql` in PgAdmin4
 3. Run queries section by section
-
----
-
-## 📁 Files
-
-| File | Description |
-|---|---|
-| `imdb_analysis.sql` | All 12 SQL queries with comments |
-| `imdb_cleaned.csv` | Cleaned dataset (commas removed from Gross, Runtime fixed) |
-| `README.md` | Project documentation |
